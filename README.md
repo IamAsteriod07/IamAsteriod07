@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Abhishek Mallick</h1>
 <h3 align="center">A passionate Full Stack Developer, Ai-Enthusiast from India</h3>
