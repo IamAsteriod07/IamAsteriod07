@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **mallickabhishek456@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FVBt-2GKArxPryCue6BezqOR7neXT1G2/edit?usp=drive_link&ouid=104335597278382580508&rtpof=true&sd=true](https://docs.google.com/document/d/1FVBt-2GKArxPryCue6BezqOR7neXT1G2/edit?usp=drive_link&ouid=104335597278382580508&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
