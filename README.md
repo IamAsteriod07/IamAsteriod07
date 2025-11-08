@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Agentic Ai and LLM Models.**
 
-- 👯 I’m looking to collaborate on **reactive native projects**
+- 👯 I’m looking to collaborate on **RAG and Langchain based projects**
 
 - 📫 How to reach me **mallickabhishek456@gmail.com**
 - Here is my experience https://drive.google.com/file/d/1zfvkUBuzS2XQ79kNksfX86KESmzdw8lF/view?usp=drive_link 
