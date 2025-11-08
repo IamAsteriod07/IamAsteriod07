@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **RAG and Langchain based projects**
 
 - 📫 How to reach me **mallickabhishek456@gmail.com**
-- Here is my experience https://drive.google.com/file/d/1zfvkUBuzS2XQ79kNksfX86KESmzdw8lF/view?usp=drive_link 
+- Here is my experience https://drive.google.com/file/d/1fbw04FWaTSrw80yxDynq3DUd2Rw6csap/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/iamasteriod07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iamasteriod07" height="30" width="40" /></a>
