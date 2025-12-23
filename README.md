@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamasteriod07" alt="iamasteriod07" /></a> </p>
 
-- 🌱 I’m currently learning **Agentic Ai and LLM Models.**
-- 👯 I’m looking to collaborate on **RAG and Langchain based projects**
-- Also updating my skills in Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.
+- 🌱 I’m currently learning **Agentic Ai and LLM Models.Also updating my skills in Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.**
+- 👯 I’m looking to collaborate on **RAG and Langchain based projects.**
+
 
 - 📫 How to reach me **mallickabhishek456@gmail.com**
 - Here is my experience https://drive.google.com/file/d/15OyKwkkqZkwws0gXRXdQLxPYp9ZDzBaZ/view?usp=drive_link
