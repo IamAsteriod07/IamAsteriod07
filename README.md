@@ -1,7 +1,6 @@
 
 
 <h1 align="center">𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>👋
-<h3 align="center">A passionate Full Stack Developer, Ai-Enthusiast from India. Also updating my skills in Cloud platforms (AWS,Azure), and MLOps. I am passionate about staying at the forefront of technological advancements.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamasteriod07&label=Profile%20views&color=0e75b6&style=flat" alt="iamasteriod07" /> </p>
 
