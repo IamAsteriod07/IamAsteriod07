@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamasteriod07&label=Profile%20views&color=0e75b6&style=flat" alt="iamasteriod07" /> </p>
   
 - 🌱 I’m currently learning Agentic Ai and LLM Models.Also updating my skills in Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.**
-- 👯 I’m looking to collaborate on **RAG and Langchain based projects.**
+- 👯 I’m looking to collaborate on **RAG based projects.**
 
 - 📫 How to reach me **mallickabhishek456@gmail.com**
 - Here is my experience https://drive.google.com/file/d/15OyKwkkqZkwws0gXRXdQLxPYp9ZDzBaZ/view?usp=drive_link
